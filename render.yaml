@@ -2,6 +2,7 @@ previewsEnabled: false
 
 databases:
   - name: lightdash-database
+    plan: free
     ipAllowList: []
 
 services:
